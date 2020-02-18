@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## RGV Locksport
 
-You can use the [editor on GitHub](https://github.com/FiberMoose/rgvlocksport-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+RGV Locksport is a social group dedicated to the hobby of Locks, Lockpicking, and physical security in general.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We host regular, informal, and easy-going meetups to share the skill and hobby of lock picking.
 
-### Markdown
+Founded in January of 2020, we are currently a small group, but are growing.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are modeled after several other Texas Locksport groups, namely Houston Locksport.
 
+Our founding members have secured a minor corporate sponsorsor who has been generous enough to allow us to use their building in harlingen for larger organized invite-only projects.
+
+Our regular meetups are public and welcome to all who are interested in learning about the art and hobby of lock picking and physical security.
+
+Our regular meetup venue changes occasionally, but we will try to arrange it where we are close to the concentration of members.
+
+
+### We have a few general rules: 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Rule 1: Our meetups are restricted to 18+ adults however teenagers may join with permission and participation of their adult parent. 
+Rule 2: If we are meeting at a restrurant or bar, we expect you to handle your alcohol.. Please do not make us ban you.
+Rule 3: We absolutely positively NEVER endorse nor tolerate anything illegal, criminal, or any activity that even seems questionable. You *WILL* be banned.
+Rule 4: Please respect the property and privacy of other members. 
+Rule 5: Please be a respectful mature adult. 
+Rule 6: Never pick a lock that you do not own or do not have absolute permission to pick.
+Rule 7: Do not pick locks that you rely on... you will eventually damage one.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FiberMoose/rgvlocksport-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, please feel free to reach out.
+We do not have any social media setup quite yet, but you can reach us at FiberMoose@protonmail.com
+
