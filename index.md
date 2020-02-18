@@ -1,4 +1,4 @@
-## RGV Locksport
+## About Us
 
 RGV Locksport is a social group dedicated to the hobby of Locks, Lockpicking, and physical security in general.
 
